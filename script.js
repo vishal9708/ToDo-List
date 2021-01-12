@@ -1,4 +1,5 @@
 var list = [];
+//$("input[type='text'").fadeOut();
 
 $("ul").on("click","li",function(){
   $(this).toggleClass("completed");

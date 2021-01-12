@@ -25,6 +25,7 @@ h1{
 }
 
 input{
+   display: none;
    font-size: 18 px;
 	color: #232323;
 	background-color: #f7f7f7;
